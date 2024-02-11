@@ -1,5 +1,7 @@
 # Caut!on
 
+Team Members: Trishika Movva, Anisha Dhawan, Lia Mathews
+
 Inspiration
 
 Caut!on is an app meant to be your intuitive travel companion. Explore the vibrant downtown area with a map that gives you the ability to personalize your atmosphere. Feel the beat of the city and follow its rhythm, whether it means exploring bustling areas for a lively atmosphere or discovering a secret spot for peaceful reflection. More than just an app, Caut!on connects you to the locations that suit your preferences and mood, acting as your own personal guide to the city of Athens. Allow spontaneity to flourish and allow Caut!on to work with you to craft unique experiences.
