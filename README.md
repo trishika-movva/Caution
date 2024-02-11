@@ -30,3 +30,7 @@ We learned how to use Figma to prototype our app.
 What’s next for Caut!on?
 
 We plan to expand Caut!on to consider every day of the week as it currently only gives population density on Fridays. We will also expand the number of places that the app can access. We want to include a user-driven rating system where users can rate the accuracy of the information provided by the app so that we can make the app more accurate. Caut!on can one day have the ability to act as a form of social media where people can chat with one another to meet up at certain places depending on if they’re looking for a quiet or sociable space. This app will not just be a utility but a social hub fostering connections and signaling safe spaces.
+
+Link to our app prototype in Figma:
+https://www.figma.com/proto/zE0nZBjBxEC3lj6Q6wkoXO?node-id=99-76&starting-point-node-id=99:76&locale=en
+
