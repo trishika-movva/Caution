@@ -1,0 +1,7 @@
+Location: Waffle House
+Hours: 0.00-0.00
+Population Density Rating: 2
+
+Top incident 1: Someone has been throwing around hateful speech for half an hour!!!
+
+

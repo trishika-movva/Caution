@@ -1,0 +1,18 @@
+Location: Bar South
+Hours: 4.00-2.00
+Closed currently.
+Population Density Rating: 3
+
+Top incident 1: A fight broke out! (10:30PM)
+
+Top incident 2: Police were nearing the area when I passed by. (8:00PM)
+
+Top incident 3: Someone in the restaurant made a couple threats at me and my family before we left... (9:30PM)
+
+Top incident 1: A fight broke out! (10:30PM)
+
+Top incident 2: Police were nearing the area when I passed by. (8:00PM)
+
+Top incident 3: Someone in the restaurant made a couple threats at me and my family before we left... (9:30PM)
+
+

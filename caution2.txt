@@ -1,0 +1,8 @@
+Location: Little Italy Pizzeria
+Hours: 11.00-3.00
+Closed currently.
+Population Density Rating: 0
+
+Top incident 1: null
+
+

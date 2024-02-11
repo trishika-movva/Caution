@@ -1,0 +1,8 @@
+Location: Manhattan Cafe
+Hours: 4.00-2.00
+Closed currently.
+Population Density Rating: 3
+
+Top incident 1: null
+
+
