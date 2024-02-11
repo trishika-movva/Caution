@@ -34,3 +34,7 @@ We plan to expand Caut!on to consider every day of the week as it currently only
 Link to our app prototype in Figma:
 https://www.figma.com/proto/zE0nZBjBxEC3lj6Q6wkoXO?node-id=99-76&starting-point-node-id=99:76&locale=en
 
+Video of our app prototype:
+https://vimeo.com/911962355
+
+
